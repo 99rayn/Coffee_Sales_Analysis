@@ -1,4 +1,5 @@
 Coffee Sales Data Analysis ☕📊
+![Screenshot 2025-03-20 101337](https://github.com/user-attachments/assets/61b64081-4cdd-4780-a4d8-c9ff5a20e4a2)
 
 Overview
 
